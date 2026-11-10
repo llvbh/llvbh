@@ -1,7 +1,7 @@
-<h1 align="center">Привет, я Назым!</h1>
-<h3 align="center">QA Automation Engineer</h3>
+<h1 align="center">Hello world!</h1>
+<h3 align="center">Я QA Automation Engineer</h3>
 
-### Мои инструменты и технологии:
+### Инструменты и технологии, которые использую:
 
 <p align="center">
 <img width="6%" title="Java" src="images/logo/Java.svg">
