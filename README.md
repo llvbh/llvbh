@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!</h1>
-<h3 align="center">Я QA Automation Engineer</h3>
+<h3 align="center">Я, Назым, QA Automation Engineer</h3>
 
 ### Инструменты и технологии, которые использую:
 
